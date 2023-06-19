@@ -1,0 +1,25 @@
+#div1
+{
+    position: absolute;
+    font-size: 40px;
+    font-weight: bold;
+    top:40%;
+    left: 40%;
+}
+
+#Toggle-images
+{
+    position: absolute;
+    top:10%;
+
+    left: 45%;
+    text-align: center;
+    color:black;
+    font-size: 50px;
+}
+
+#container
+{
+    height: 97vh;
+    width: 98vw;
+}
